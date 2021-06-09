@@ -3,7 +3,7 @@
 - ✔ Typescript connoisseur 💯
 - ✔ Angular skeptic 😳
 - ✔ Gnome-lover 🏃‍♂️
-- ✔ CEO, creator, owner and CTO of [antonekstrom.se](antonekstrom.se) 🏛🌍
+- ✔ CEO, creator, owner and CTO of [antonekstrom.se](https://antonekstrom.se/) 🏛🌍
 - ✔ Professional emoji critic and reviewer 🐢💯🥺🌛🎂🌚
 
-![antonekstrom.se](anton_ekstrom_github.png)
+[![Anton Ekström](anton_ekstrom_github.png)](https://antonekstrom.se/)
